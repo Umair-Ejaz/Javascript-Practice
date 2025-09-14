@@ -1,4 +1,4 @@
-# 📘 JavaScript Array Methods Guide
+# 📘 JavaScript Array Methods Guide.
   
 
 
